@@ -1,0 +1,37 @@
+body
+{
+	background: #71A7CD;
+	font-family: "Consolas";
+	font-size: 24px;
+}
+
+canvas
+{
+	display: block;
+	margin: auto;
+	margin-top: 50px;
+	border-radius: 10px;
+	border: 2px solid black;
+}
+
+.sliderContainer
+{
+	width: 300px;
+	background: #fff4;
+	margin: auto;
+	border-radius: 10px;
+	padding: 10px;
+	margin-top: 200px;
+	border: 2px solid black;
+}
+
+.resultsContainer
+{
+	width: 500px;
+	margin: auto;
+	border-radius: 10px;
+	padding: 10px;
+	margin-top: 50px;
+	text-align: center;
+	font-size: 32px;
+}
