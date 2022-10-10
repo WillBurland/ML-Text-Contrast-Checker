@@ -4,7 +4,7 @@ ML-Text-Contrast-Checker"/> <img src="https://img.shields.io/github/downloads/Wi
 ML-Text-Contrast-Checker/total"/> <img src="https://img.shields.io/github/last-commit/Will1162/
 ML-Text-Contrast-Checker"/>
 
-# ML Text Contrast Checker
+# Machine Learning Text Contrast Checker
 
 ## About the project
 
